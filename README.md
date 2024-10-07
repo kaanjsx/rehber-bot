@@ -4,10 +4,6 @@ Merhaba,
 
 > `69,85,86,87,88,139 satırdaki gerekli yerleri doldurunuz`, iyi kullanmalar! 🎉
 
-
-Come TO Ghost 👻 Street: [Here](https://discord.gg/KCfCMKnFzK)
-
-
 Bottan Görseller; 
 
 > ![image](https://user-images.githubusercontent.com/83782358/176671024-e75e0e99-8299-430e-94b0-2d87080b6a30.png)
